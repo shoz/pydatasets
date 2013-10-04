@@ -1,0 +1,3 @@
+include *.rst
+recursive-include pydatasets *.py
+recursive-include pydatasets *.csv
